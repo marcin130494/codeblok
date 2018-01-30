@@ -41,6 +41,7 @@ cout << "posortowana tablica:" << endl;
 sortowanie_przez_wybor (tablica,20);
 wypisz(tablica, 20);
 
+cout<<"jakas zmiana zaszala";
 getchar ();
 getchar ();
 return 0;
