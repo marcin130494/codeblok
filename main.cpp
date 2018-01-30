@@ -41,6 +41,8 @@ cout << "posortowana tablica:" << endl;
 sortowanie_przez_wybor (tablica,20);
 wypisz(tablica, 20);
 
+cout<<"drugi branch";
+
 getchar ();
 getchar ();
 return 0;
