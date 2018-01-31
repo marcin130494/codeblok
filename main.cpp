@@ -42,6 +42,7 @@ sortowanie_przez_wybor (tablica,20);
 wypisz(tablica, 20);
 
 cout<<"drugi branch";
+cout<<"nowy user";
 
 getchar ();
 getchar ();
