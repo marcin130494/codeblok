@@ -43,6 +43,7 @@ wypisz(tablica, 20);
 
 cout<<"drugi branch";
 cout<<"nowy user";
+cout<<"nowy plik";
 
 getchar ();
 getchar ();
